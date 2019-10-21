@@ -1,8 +1,7 @@
 <?php
-declare(strict_types=1);
+/*declare(strict_types=1);
 class ProductLoader
 {
-
     private $products = [];
     public function __construct()
     {
@@ -18,5 +17,5 @@ class ProductLoader
     {
         return $this->products;
     }
-}
+}*/
 

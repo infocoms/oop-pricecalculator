@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-class ProductController
+/*class ProductController
 {
     public function render(int $productId)
     {
@@ -9,4 +9,4 @@ class ProductController
         $allProducts = $loader->loadProducts();
         require 'View/product.php';
     }
-}
+}*/
